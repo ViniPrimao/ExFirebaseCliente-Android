@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "342241346783",
+    "firebase_url": "https://fire-b358a.firebaseio.com",
+    "project_id": "fire-b358a",
+    "storage_bucket": "fire-b358a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342241346783:android:234a3228c96d5930",
+        "android_client_info": {
+          "package_name": "com.example.qi.exfirebasecliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342241346783-7ahr6qe2crphiomssre40ibnjui79vqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIAewM1X9O2gywvmXvwnEaQ7qNeucRI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

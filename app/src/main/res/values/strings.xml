@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExFirebaseClienteManha</string>
+
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_et_renda">Renda</string>
+    <string name="ma_btn_ok">OK</string>
+
+    <string-array name="ma_sp_cidade">
+        <item>Porto Alegre</item>
+        <item>Canoas</item>
+        <item>Cachoeirinha</item>
+        <item>Esteio</item>
+    </string-array>
+</resources>
